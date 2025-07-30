@@ -1,6 +1,6 @@
 # socialmedia
 
-Our platform would allow users to connect and interact with other travelers around the world by sharing photos of visited places and create traveling inspirations. We completed our project using HTML, CSS, Javascript, Java, SQL, Git, Github, and frameworks such as Bootstrap while following the Sprint and Agile Methodology. This project attests to our programming skills in software development.
+This platform would allow users to connect and interact with other travelers around the world by sharing photos of visited places and create traveling inspirations. I completed the project using HTML, CSS, Javascript, Java, SQL, Git, Github, and frameworks such as Bootstrap while following the Sprint and Agile Methodology. This project attests to my programming skills in software development.
 
 Homepage <br>
 The sign in form is different because we were trying it out.
